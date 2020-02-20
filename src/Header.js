@@ -6,7 +6,9 @@ export default class Header extends Component {
         return (
             <div>
                 <header>
-                <SearchBar />
+                    <h1>Welcome to City Explorer!</h1>
+                    <SearchBar />
+                    <button>Search</button>
                 </header>
             </div>
         )
