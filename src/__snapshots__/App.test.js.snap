@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders App.js correctly 1`] = `
+<div>
+  <header>
+    <h1>
+      Welcome to City Explorer!
+    </h1>
+    <div>
+      <input />
+      <div>
+        <div />
+        <div />
+        <div />
+        <div />
+      </div>
+    </div>
+    <button>
+      Search
+    </button>
+  </header>
+</div>
+`;
+
+exports[`renders ImageItem.js correctly 1`] = `<div />`;
